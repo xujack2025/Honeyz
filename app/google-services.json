@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879681692843",
+    "project_id": "honeyz-ec048",
+    "storage_bucket": "honeyz-ec048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879681692843:android:50b430fcb01bbbf0dc83ee",
+        "android_client_info": {
+          "package_name": "com.example.honeyz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJp-JJUgUSKrUVtWhI_9WLsjQtmbHWp3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
